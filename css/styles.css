@@ -1,6 +1,6 @@
 * {
   padding: 0;
-  margin: 0;
+  margin: 0; 
   box-sizing: border-box;
 }
 
@@ -151,7 +151,7 @@ body {
   right: 7rem;
 }
 
-.robot-hair-one,.robot-hair-two,.robot-hair-three {
+.robot-hair-one,.robot-hair-two,.robot-hair-three{
   border-bottom: 100px solid #ff9472;
   border-left: 25px solid transparent;
   border-right: 25px solid transparent;
